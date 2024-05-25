@@ -228,7 +228,6 @@ li a:hover {
     font-weight: bold;
 }
 .about-us {
-    color: white;
     padding: 6rem 4rem;
     display: flex;
     justify-content: center;
@@ -236,7 +235,7 @@ li a:hover {
 #about_p {
     font-size: 1.2rem;
     font-weight: 300;
-    color:#ffffff;
+    color:white;
 }
 .typing {
     font-weight: 900;
@@ -248,6 +247,7 @@ li a:hover {
     padding: 5px 15px;
     font-weight: bold;
     color: #ffba00;
+    background-color:#07594d;
     border-radius: 10px;
     margin: 0 0 15px 0;
 }
@@ -419,7 +419,6 @@ li a:hover {
     z-index: 3;
     color: white;
     position: relative;
-    background-image: url("kenny-eliason-1-aA2Fadydc-unsplash.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -456,7 +455,7 @@ li a:hover {
 .testimonial {
     margin-bottom: 30px;
     height: fit-content;
-    background-color: #00382E;
+    background-color: #07594d;
 }
 .testimonial__h4 {
     padding: 10px 0;
@@ -468,7 +467,7 @@ li a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #07594d;
+    border: 1px solid #25776B;
     box-shadow: 0 5px 10px 0 #fff;
     padding: 20px;
     width: 70%;
