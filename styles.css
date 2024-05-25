@@ -291,7 +291,7 @@ li a:hover {
     max-height: fit-content;
     filter: grayscale(100%);
     position: relative;
-    background-color: #f9f9f9;
+    background-color: #f0f0f0;
 }
 .client-images:before,
 .client-images:after {
@@ -397,7 +397,7 @@ li a:hover {
     border: 1px solid gainsboro;
     padding: 0;
     object-fit: cover;
-    box-shadow: 0 10px 5px 0 rgba(7, 89, 77, 0.5); /* Semi-transparent version */
+    box-shadow: 0 10px 5px 0 #05433a; /* Slightly darker shade */
 }
 
 .project img {
