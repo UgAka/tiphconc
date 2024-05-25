@@ -236,6 +236,7 @@ li a:hover {
 #about_p {
     font-size: 1.2rem;
     font-weight: 100;
+    color:#fff;
 }
 .typing {
     font-weight: 900;
@@ -322,28 +323,28 @@ li a:hover {
 }
 .client-item1 {
     width: 20vw;
-    background-image: url("images/Malengo_Logo.png");
+    background-image: url("Malengo_Logo.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item2 {
     width: 18vw;
-    background-image: url("images/Mak-Logo.png");
+    background-image: url("Mak-Logo.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item3 {
     width: 20vw;
-    background-image: url("images/SPA\ MANIA\ .png");
+    background-image: url("SPA\ MANIA\ .png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item4 {
     width: 18vw;
-    background-image: url("images/download-27.jpg");
+    background-image: url("download-27.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -444,7 +445,7 @@ li a:hover {
 .enroll-container {
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color:#004539;
     padding: 20px 0;
     flex-direction: column;
 }
