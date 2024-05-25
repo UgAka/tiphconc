@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .highlight {
-    color: #07594d;
+    color: #25776B;
 }
 .center {
     text-align: center;
@@ -21,10 +21,15 @@ html {
     scroll-behavior: smooth;
     overflow-x: hidden;
 }
+html, body {
+    height:100%;
+     margin: 0;
+    padding: 0;
+}
 body {
     width: 100%;
-    height: 100%;
     font-family: "Montserrat", sans-serif;
+    background-color:#07594d;
 }
 .first-section {
     height: 80vh;
