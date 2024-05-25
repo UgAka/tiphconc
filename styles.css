@@ -154,7 +154,8 @@ li a:hover {
     border-radius: 10px;
     transition: box-shadow 0.3s ease-in-out;
     font-weight: 750;
-    color: #ffba00;
+    background-color: #ffba00;
+    color:#ffffff;
 }
 .hero__button:hover {
     box-shadow: 2px 2px 9px #c4c4c4, -2px -2px 9px #ffffff;
@@ -245,9 +246,8 @@ li a:hover {
     border: none;
     border-radius: 15px;
     padding: 5px 15px;
-    color: #ffffff;
     font-weight: bold;
-    background-color: #ffba00;
+    color: #ffba00;
     border-radius: 10px;
     margin: 0 0 15px 0;
 }
