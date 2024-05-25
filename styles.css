@@ -289,7 +289,7 @@ li a:hover {
     flex-wrap: nowrap;
     gap: 4vw;
     margin: auto;
-    max-width: 100%;
+    width: 100%;
     max-height: fit-content;
     filter: grayscale(100%);
     position: relative;
