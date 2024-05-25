@@ -289,11 +289,12 @@ li a:hover {
     flex-wrap: nowrap;
     gap: 4vw;
     margin: auto;
-    width: 100%;
+    max-width: 100%;
     max-height: fit-content;
     filter: grayscale(100%);
     position: relative;
-    background-color: #f9f9f9;
+    background-color: #e0e0e0;
+    width: 100vw;
 }
 .client-images:before,
 .client-images:after {
