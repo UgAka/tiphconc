@@ -397,13 +397,14 @@ li a:hover {
     border: 1px solid gainsboro;
     padding: 0;
     object-fit: cover;
-    box-shadow: 0 10px 5px 0 gainsboro;
+    box-shadow: 0 10px 5px 0 rgba(7, 89, 77, 0.5); /* Semi-transparent version */
 }
+
 .project img {
     height: 100%;
     display: block;
     width: 100%;
-    opacity: 0.5;
+    opacity: 1;
     transition: 0.5s;
     border-radius: 10px;
 }
