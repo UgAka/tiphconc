@@ -235,7 +235,7 @@ li a:hover {
 }
 #about_p {
     font-size: 1.2rem;
-    font-weight: 100;
+    font-weight: 300;
     color:#ffffff;
 }
 .typing {
@@ -255,6 +255,8 @@ li a:hover {
 .about__h4 {
     margin: 10px 0;
     font-weight: 900;
+    color:#ffffff;
+
 }
 .services__h4 {
     padding: 0 10px;
@@ -272,11 +274,14 @@ li a:hover {
     border-radius: 50%;
     height: 20px;
     width: 20px;
-    background-color: #07594d;
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-right: 2px;
+}
+.fi.fi-ss-check {
+    color: #07594d;
 }
 .client-images {
     display: flex;
