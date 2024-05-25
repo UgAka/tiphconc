@@ -415,14 +415,13 @@ li a:hover {
     z-index: 3;
     color: white;
     position: relative;
-    background-image: url(./images/kenny-eliason-1-aA2Fadydc-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0 5px;
 }
 .Contact {
-    background-image: url("./images/post-2.png");
+    background-color:#004539;
     background-position: center;
 }
 .enroll h3 {
@@ -452,18 +451,20 @@ li a:hover {
 .testimonial {
     margin-bottom: 30px;
     height: fit-content;
-    background-color: #fff;
+    background-color: #07594d;
 }
 .testimonial__h4 {
     padding: 10px 0;
     margin-top: 10px;
     font-weight: bold;
+    color:white;
+
 }
 .testimonial__card {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #07594d;
+    border: 1px solid #25776B;
     box-shadow: 0 5px 10px 0 #fff;
     padding: 20px;
     width: 70%;
@@ -486,13 +487,15 @@ li a:hover {
     margin-left: 10px;
     max-width: 400px;
     margin-bottom: 10px;
+    color:white;
+
 }
 .carousel-control-prev-icon {
-    background-color: #fff;
+    background-color: #286D61;
     border-radius: 10px;
 }
 .carousel-control-prev-icon:hover {
-    background-color: #07594d;
+    background-color: #286D61;
     border-radius: 10px;
 }
 .carousel-control-next-icon {
