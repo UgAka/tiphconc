@@ -147,7 +147,6 @@ li a:hover {
     top: 20%;
 }
 .hero__button {
-    background-color: #ffba00;
     border: none;
     padding: 5px 15px;
     font-size: 16px;
@@ -155,7 +154,7 @@ li a:hover {
     border-radius: 10px;
     transition: box-shadow 0.3s ease-in-out;
     font-weight: 750;
-    color: #07594d;
+    color: #ffba00;
 }
 .hero__button:hover {
     box-shadow: 2px 2px 9px #c4c4c4, -2px -2px 9px #ffffff;
@@ -376,8 +375,7 @@ li a:hover {
 }
 .projects__h4 {
     border-radius: 15px;
-    background-color: #ffba00;
-    color: #fff;
+    color: #ffba00;
     padding: 5px 0;
     width: 12%;
     font-size: 1.2rem;
@@ -464,6 +462,7 @@ li a:hover {
     padding: 10px 0;
     margin-top: 10px;
     font-weight: bold;
+    color:white;
 }
 .testimonial__card {
     display: flex;
@@ -492,9 +491,10 @@ li a:hover {
     margin-left: 10px;
     max-width: 400px;
     margin-bottom: 10px;
+    color:white;
 }
 .carousel-control-prev-icon {
-    background-color: #fff;
+    background-color: #286D61;
     border-radius: 10px;
 }
 .carousel-control-prev-icon:hover {
@@ -502,7 +502,7 @@ li a:hover {
     border-radius: 10px;
 }
 .carousel-control-next-icon {
-    background-color: #fff;
+    background-color: #286D61;
     border-radius: 10px;
 }
 .carousel-control-next-icon:hover {
