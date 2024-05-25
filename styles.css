@@ -284,6 +284,9 @@ li a:hover {
 .fi.fi-ss-check {
     color: #07594d;
 }
+#clientele{
+    width:100%;
+}
 .client-images {
     display: flex;
     flex-wrap: nowrap;
