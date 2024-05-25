@@ -425,7 +425,7 @@ li a:hover {
     padding: 0 5px;
 }
 .Contact {
-    background-image: url("post-2.png");
+    background-color:#004539;
     background-position: center;
 }
 .enroll h3 {
@@ -448,7 +448,7 @@ li a:hover {
 .enroll-container {
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.65);
+    background-color:#004539;
     padding: 20px 0;
     flex-direction: column;
 }
