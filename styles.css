@@ -375,8 +375,7 @@ li a:hover {
 }
 .projects__h4 {
     border-radius: 15px;
-    background-color: #ffba00;
-    color: #fff;
+    color: #ffba00;
     padding: 5px 0;
     width: 12%;
     font-size: 1.2rem;
@@ -398,19 +397,15 @@ li a:hover {
     border: 1px solid gainsboro;
     padding: 0;
     object-fit: cover;
-    box-shadow: 0 10px 5px 0 gainsboro;
+    box-shadow: 0 10px 5px 0 #05433a; /* Slightly darker shade */
 }
 .project img {
     height: 100%;
     display: block;
     width: 100%;
-    opacity: 0.5;
+    opacity: 1;
     transition: 0.5s;
     border-radius: 10px;
-}
-.project:hover img {
-    opacity: 1;
-    transform: scale(1);
 }
 #projects {
     padding-top: 60px;
