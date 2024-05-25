@@ -6,6 +6,7 @@
 }
 .highlight {
     color: #25776B;
+    font-weight:300;
 }
 .center {
     text-align: center;
@@ -496,11 +497,11 @@ li a:hover {
     border-radius: 10px;
 }
 .carousel-control-prev-icon:hover {
-    background-color: #286D61;
+    background-color: #07594d;
     border-radius: 10px;
 }
 .carousel-control-next-icon {
-    background-color: #fff;
+    background-color: #286D61;
     border-radius: 10px;
 }
 .carousel-control-next-icon:hover {
