@@ -287,11 +287,11 @@ li a:hover {
     flex-wrap: nowrap;
     gap: 4vw;
     margin: auto;
-    max-width: 100%;
+    width: 100%;
     max-height: fit-content;
     filter: grayscale(100%);
     position: relative;
-    background-color: #f0f0f0;
+/*     background-color: #f0f0f0; */
 }
 .client-images:before,
 .client-images:after {
@@ -307,8 +307,8 @@ li a:hover {
 }
 .client-images:after {
     right: 0;
-    background-color:#e0e0e0;;
-}
+/*     background-color:#e0e0e0;;
+} */
 .client-item1,
 .client-item2,
 .client-item3,
