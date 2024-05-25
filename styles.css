@@ -236,10 +236,11 @@ li a:hover {
 #about_p {
     font-size: 1.2rem;
     font-weight: 100;
+    color:#ffffff;
 }
 .typing {
     font-weight: 900;
-    color: #07594d;
+    color: #4E887F;
 }
 .about__button {
     border: none;
@@ -389,7 +390,7 @@ li a:hover {
     width: 300px;
     height: 300px;
     border-radius: 10px;
-    background-color: white;
+    color: white;
     border: 1px solid gainsboro;
     padding: 0;
     object-fit: cover;
@@ -415,14 +416,14 @@ li a:hover {
     z-index: 3;
     color: white;
     position: relative;
-    background-image: url(./images/kenny-eliason-1-aA2Fadydc-unsplash.jpg);
+    background-image: url("kenny-eliason-1-aA2Fadydc-unsplash.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0 5px;
 }
 .Contact {
-    background-image: url("./images/post-2.png");
+    background-image: url("post-2.png");
     background-position: center;
 }
 .enroll h3 {
@@ -452,7 +453,7 @@ li a:hover {
 .testimonial {
     margin-bottom: 30px;
     height: fit-content;
-    background-color: #fff;
+    background-color: #00382E;
 }
 .testimonial__h4 {
     padding: 10px 0;
