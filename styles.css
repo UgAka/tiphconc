@@ -307,7 +307,7 @@ li a:hover {
 }
 .client-images:after {
     right: 0;
-    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+    background-color:#e0e0e0;;
 }
 .client-item1,
 .client-item2,
