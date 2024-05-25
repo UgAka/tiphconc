@@ -312,28 +312,28 @@ li a:hover {
 }
 .client-item1 {
     width: 20vw;
-    background-image: url("images/Malengo_Logo.png");
+    background-image: url("Malengo_Logo.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item2 {
     width: 18vw;
-    background-image: url("images/Mak-Logo.png");
+    background-image: url("Mak-Logo.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item3 {
     width: 20vw;
-    background-image: url("images/SPA\ MANIA\ .png");
+    background-image: url("SPA\ MANIA\ .png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .client-item4 {
     width: 18vw;
-    background-image: url("images/download-27.jpg");
+    background-image: url("download-27.jpg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
